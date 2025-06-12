@@ -97,7 +97,6 @@ Depois de baixar o projeto você deve abrí-lo no Jupyter Notebook/VS code
 <div align="justify">
 
 1.  [Nguyen, B. et al. Genomic characterization of metastatic patterns from prospective clinical sequencing of 25,000 patients. Cell 185, 563-575.e11 (2022).](https://medium.com/ensina-ai/uma-explica%C3%A7%C3%A3o-visual-para-fun%C3%A7%C3%A3o-de-custo-binary-cross-entropy-ou-log-loss-eaee662c396c)
-2.  
 
 
 </div>
